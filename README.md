@@ -1,0 +1,1 @@
+# Fix-F-Key-Keyboard-Mapping-di-Linux-hid_apple-
